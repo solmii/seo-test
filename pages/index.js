@@ -6,16 +6,16 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>SEO test | Portfolio</title>
-        <meta name="title" content={`SEO test | Portfolio`} />
-        <meta name="description" content={`Portfolio - Search and manage Ethereum NFT portfolio on NFTBank.`} />
-        <meta name="keywords" content="NFTBank, SEO test, NFT, Ethereum, portfolio, Nonfungible, analytics, digital collectibles, Portfolio management, Portfolio analytics" />
+        <title>NFTBank.ai | Portfolio</title>
+        <meta name="title" content="NFTBank.ai | Portfolio" />
+        <meta name="description" content="Portfolio - Search and manage Ethereum NFT portfolio on NFTBank." />
+        <meta name="keywords" content="NFTBank, NFTBank.ai, NFT, Ethereum, portfolio, Nonfungible, analytics, digital collectibles, Portfolio management, Portfolio analytics" />
 
-        <meta property="og:site_name" content="SEO test" />
+        <meta property="og:site_name" content="NFTBank.ai" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://solmii.github.io/seo-test" />
-        <meta property="og:title" content={`SEO test | Portfolio`} />
-        <meta property="og:description" content={`Portfolio - Search and manage Ethereum NFT portfolio on NFTBank.`} />
+        <meta property="og:title" content="NFTBank.ai | Portfolio" />
+        <meta property="og:description" content="Portfolio - Search and manage Ethereum NFT portfolio on NFTBank." />
         <meta property="og:image" content="https://storage.googleapis.com/nftbank-public/nftbank-public/default.png" />
         <meta property="og:image:secure_url" content="https://storage.googleapis.com/nftbank-public/nftbank-public/default.png" />
         <meta property="og:image:url"  content="https://storage.googleapis.com/nftbank-public/nftbank-public/default.png" />
@@ -23,10 +23,10 @@ export default function Home() {
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://solmii.github.io/seo-test" />
-        <meta property="twitter:title" content={`SEO test | Portfolio`} />
-        <meta property="twitter:description" content={`Portfolio - Search and manage Ethereum NFT portfolio on NFTBank.`} />
+        <meta property="twitter:title" content="NFTBank.ai | Portfolio" />
+        <meta property="twitter:description" content="Portfolio - Search and manage Ethereum NFT portfolio on NFTBank." />
         <meta property="twitter:image" content="https://storage.googleapis.com/nftbank-public/nftbank-public/default.png" />
-        <meta name="twitter:site" content={"@solmii"} />
+        <meta name="twitter:site" content={"@NFTbank_ai"} />
       </Head>
 
       <main className={styles.main}>
