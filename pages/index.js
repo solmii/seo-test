@@ -4,6 +4,7 @@ export default function Home() {
     <div>
       <Head>
         {/* <!-- Primary Meta Tags --> */}
+        <meta http-equiv="Refresh" content="2; url=public/index.html"></meta>
         <title>NFTBank.ai</title>
         <meta name='title' content='NFTBank.ai'></meta>
         <meta name='description' content='Portfolio - Search and manage Ethereum NFT portfolio on NFTBank.'></meta>
